@@ -7,15 +7,13 @@
 	- 对于用户和组织的页面站点来说，Pages 分支是 `master` 。
 	- 对于项目页面站点来说，Pages 分支是 `gh-pages` 。
 3. 添加一个新文件，命名为 *CNAME* （全部大写！），放在 Pages 分支的根目录下。
-4. 在新文件中，添加一行，指定自定义域名的空子域名。例如，使用 `blog.example.com` 而不是 `https://blog.example.com` 。请注意，在 *CNAME* 文件中只允许有**一个域名**。
+4. 在新文件中，添加一行，指定自定义域名的空子域名。例如，使用 `blog.example.com` 而不是  `https://blog.example.com` 。请注意，在 *CNAME* 文件中只允许有**一个域名**。
 5. 输入提交的消息，或接受默认消息。
 6. 在提交消息的对话框底部，点击 **Confirm merge**。
 
 ## 确认自定义域名配置正确
 
 1. 在你的存储库右边侧边栏，点击![](images/cnamefile1.png).
-
-
 
 2. 在“ GitHub Pages ”底部，你会看到你的 *CNAME* 文件的自定义域名。
 

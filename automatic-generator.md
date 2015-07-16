@@ -4,7 +4,7 @@
 
 ## 用户和组织 Pages
 
-为了生成用户和组织的网页，你需要[生成一个库](https://help.github.com/articles/creating-a-new-repository)叫作`username.github.io`。用户名和组织名**必须**是你自己的否则你的GitHub Pages 不会建立的。页面自动生成器是容易通过库的设置页面进入的。你可以[从这里](https://help.github.com/articles/user-organization-and-project-pages)阅读更多关于用户和组织页面。
+为了生成用户和组织的网页，你需要[生成一个库](https://help.github.com/articles/creating-a-new-repository)叫作`username.github.io`。用户名和组织名**必须**是你自己的否则你的 GitHub Pages 不会建立的。页面自动生成器是容易通过库的设置页面进入的。你可以[从这里](https://help.github.com/articles/user-organization-and-project-pages)阅读更多关于用户和组织页面。
 
 警告： GitHub Pages 在互联网上是公开的可进入的，尽管它们的库是私有的。如果你有一些敏感的数据在你的页面库中，你可能想把它在发布前去除。
 
@@ -43,7 +43,7 @@ Branch gh-pages set up to track remote branch gh-pages from origin.
 Switched to a new branch 'gh-pages'
 ```
 
-如果你生成了一个用户网页，代码会在`master`的分支，而不是`gh-pages`的分支，所以仅仅 check out `master`然后 pull 就可以了。
+如果你生成了一个用户网页，代码会在 `master` 的分支，而不是 `gh-pages` 的分支，所以仅仅 check out `master`然后 pull 就可以了。
 
 ```
 $cd repository

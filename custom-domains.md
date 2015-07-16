@@ -4,7 +4,7 @@
 
 ## 子域名
 
-一个子域名[通过您的 DNS 提供商来配置`CNAME`记录](https://help.github.com/articles/tips-for-configuring-a-cname-record-with-your-dns-provider)。
+一个子域名[通过您的 DNS 提供商来配置 `CNAME` 记录](https://help.github.com/articles/tips-for-configuring-a-cname-record-with-your-dns-provider)。
 
 我们因为以下这些原因强烈建议您使用自定义子域名：
 
@@ -14,7 +14,7 @@
 
 ## 顶端域名
 
-一个顶端域名[通过你的 DNS 供应商配置一个`A`、`ALLAS`或者`ANAME`](https://help.github.com/articles/tips-for-configuring-an-a-record-with-your-dns-provider)，和经常被分配给一个或更多的 IP 地址。
+一个顶端域名[通过你的 DNS 供应商配置一个 `A`、`ALLAS` 或者 `ANAME`](https://help.github.com/articles/tips-for-configuring-an-a-record-with-your-dns-provider)，和经常被分配给一个或更多的 IP 地址。
 
 注意：一些 DNS 供应商支持配置顶端域名的 ALIAS 或者 ANAME 记录，但是没有专门的工业标准。一些 DNS 供应商（像 [DNSimple](https://dnsimple.com/) ）允许顶端域名配置 ALIAS 或者 ANAME 指向其它域。
 
